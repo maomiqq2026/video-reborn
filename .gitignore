@@ -1,0 +1,18 @@
+# 原始与生成的大体积媒体文件不入库（按需放开）
+videos/raw/*
+workspace/*/chunks/
+workspace/*/output/
+*.mp4
+*.mp3
+*.wav
+*.exe
+
+# 中间产物缓存
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+
+# 系统文件
+Thumbs.db
+.DS_Store
