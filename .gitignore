@@ -7,6 +7,9 @@ workspace/*/output/
 *.wav
 *.exe
 
+# 本地工具链（便携版 ffmpeg / python）
+tools/
+
 # 中间产物缓存
 __pycache__/
 *.pyc

@@ -1,0 +1,331 @@
+{
+  "generated": "2026-09-08",
+  "source_root": "E:\\培训视频重生项目-原视频",
+  "episodes": [
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5226] 开篇词  Go 为开发者的需求设计，带你实现高效工作.mp4",
+      "size_mb": 125.9,
+      "seconds": 685.3,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5227] 01  基础入门：编写你的第一个 Go 语言程序.mp4",
+      "size_mb": 166.5,
+      "seconds": 801.6,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5228] 02  数据类型：你必须掌握的数据类型有哪些？.mp4",
+      "size_mb": 169.0,
+      "seconds": 1068.4,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5229] 03  控制结构：if、for、witch 逻辑语句的那些事儿.mp4",
+      "size_mb": 81.0,
+      "seconds": 594.7,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5230] 04  集合类型：如何正确使用 array、lice 和 map？.mp4",
+      "size_mb": 141.4,
+      "seconds": 1100.1,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5231] 05  函数和方法：Go 语言中的函数和方法到底有什么不同？.mp4",
+      "size_mb": 179.7,
+      "seconds": 1188.6,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5232] 06  truct 和 interface：结构体与接口都实现了哪些功能？.mp4",
+      "size_mb": 137.4,
+      "seconds": 1119.5,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5233] 07  错误处理：如何通过 error、deferred、panic 等处理错误？.mp4",
+      "size_mb": 106.6,
+      "seconds": 761.0,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5234] 08  并发基础：Goroutine 和 Channel 的声明与使用.mp4",
+      "size_mb": 131.3,
+      "seconds": 899.3,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5235] 09  同步原语：ync 包让你对并发控制得心应手.mp4",
+      "size_mb": 146.5,
+      "seconds": 939.4,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5236] 10  Context：你必须掌握的多线程并发控制神器.mp4",
+      "size_mb": 169.1,
+      "seconds": 896.8,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5237] 11  并发模式：Go 语言中即学即用的高效并发模式.mp4",
+      "size_mb": 182.2,
+      "seconds": 1030.7,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5238] 12  指针详解：在什么情况下应该使用指针？.mp4",
+      "size_mb": 133.2,
+      "seconds": 853.9,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5239] 13  参数传递：值、引用及指针之间的区别？.mp4",
+      "size_mb": 195.3,
+      "seconds": 979.4,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5240] 14  内存分配：new 还是 make？什么情况下该用谁？.mp4",
+      "size_mb": 146.7,
+      "seconds": 807.6,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5241] 15  运行时反射：字符串和结构体之间如何转换？.mp4",
+      "size_mb": 253.4,
+      "seconds": 1495.5,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5244] 16  非类型安全：让你既爱又恨的 unafe.mp4",
+      "size_mb": 134.2,
+      "seconds": 802.8,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5245] 17  SliceHeader：lice 如何高效处理数据？.mp4",
+      "size_mb": 181.8,
+      "seconds": 963.6,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5246] 18  质量保证：Go 语言如何通过测试保证质量？.mp4",
+      "size_mb": 151.4,
+      "seconds": 868.0,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5247] 19  性能优化：Go 语言如何进行代码检查和优化？.mp4",
+      "size_mb": 164.1,
+      "seconds": 945.5,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5248] 20  协作开发：模块化管理为什么能够提升研发效能？.mp4",
+      "size_mb": 98.4,
+      "seconds": 616.1,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5249] 21  网络编程：Go 语言如何玩转 RESTful API 服务？.mp4",
+      "size_mb": 139.1,
+      "seconds": 822.7,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5250] 22  网络编程：Go 语言如何通过 RPC 实现跨平台服务？.mp4",
+      "size_mb": 174.3,
+      "seconds": 794.0,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "拉勾：22 讲通关 Go 语言/[5251] 结束语  你的 Go 语言成长之路.mp4",
+      "size_mb": 110.9,
+      "seconds": 363.9,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "第19章 基于GO语言的多种场景项目案例篇/19-1 如何介绍自己的项目才能凸显自己发挥的重要作用？.mp4",
+      "size_mb": 12.5,
+      "seconds": 138.8,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "第19章 基于GO语言的多种场景项目案例篇/19-10 高并发的微博评论系统架构设计.mp4",
+      "size_mb": 34.7,
+      "seconds": 351.8,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "第19章 基于GO语言的多种场景项目案例篇/19-11 高并发的微博评论系统的表结构设计.mp4",
+      "size_mb": 28.2,
+      "seconds": 299.4,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "第19章 基于GO语言的多种场景项目案例篇/19-12 海量数据的微博计数器解决方案.mp4",
+      "size_mb": 37.4,
+      "seconds": 387.3,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "第19章 基于GO语言的多种场景项目案例篇/19-2 电商秒杀场景如何设计系统架构？.mp4",
+      "size_mb": 28.3,
+      "seconds": 268.9,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "第19章 基于GO语言的多种场景项目案例篇/19-3 电商秒杀场景下的各种缓存设计.mp4",
+      "size_mb": 63.2,
+      "seconds": 672.3,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "第19章 基于GO语言的多种场景项目案例篇/19-4 电商秒杀场景下如何应对突发流量？.mp4",
+      "size_mb": 55.5,
+      "seconds": 524.5,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "第19章 基于GO语言的多种场景项目案例篇/19-5 电商秒杀场景下如何防止超卖？.mp4",
+      "size_mb": 57.2,
+      "seconds": 595.1,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "第19章 基于GO语言的多种场景项目案例篇/19-6 电商秒杀场景的高可用建设.mp4",
+      "size_mb": 126.3,
+      "seconds": 1372.7,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "第19章 基于GO语言的多种场景项目案例篇/19-7 企业级网盘搜索场景下的系统架构设计.mp4",
+      "size_mb": 45.3,
+      "seconds": 466.3,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "第19章 基于GO语言的多种场景项目案例篇/19-8 企业级网盘搜索场景下的索引建模.mp4",
+      "size_mb": 93.7,
+      "seconds": 945.6,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    },
+    {
+      "file": "第19章 基于GO语言的多种场景项目案例篇/19-9 企业级网盘搜索场景下的性能优化.mp4",
+      "size_mb": 62.1,
+      "seconds": 628.5,
+      "width": 1920,
+      "height": 1080,
+      "video_codec": "h264",
+      "audio_codec": "aac"
+    }
+  ],
+  "total_seconds": 28049.6
+}
